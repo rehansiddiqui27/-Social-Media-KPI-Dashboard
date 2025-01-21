@@ -3,7 +3,7 @@
 https://lookerstudio.google.com/reporting/500531c5-a7b4-4178-a1a5-b515e776c9be
 
 ## 🛠️ 𝐓𝐡𝐞 𝐓𝐚𝐬𝐤:
-Fetch campaign data from 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐀𝐝𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐫, 𝐆𝐨 𝐇𝐢𝐠𝐡 𝐋𝐞𝐯𝐞𝐥 𝐚𝐧𝐝 𝐒𝐭𝐫𝐢𝐩𝐞 into 𝐆𝐨𝐨𝐠𝐥𝐞 𝐒𝐡𝐞𝐞𝐭𝐬 📤
+Fetch data from 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐀𝐝𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐫, 𝐆𝐨 𝐇𝐢𝐠𝐡 𝐋𝐞𝐯𝐞𝐥 𝐚𝐧𝐝 𝐒𝐭𝐫𝐢𝐩𝐞 into 𝐆𝐨𝐨𝐠𝐥𝐞 𝐒𝐡𝐞𝐞𝐭𝐬 📤
 Integrate the data with a 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐭𝐨𝐨𝐥 to create an intuitive, visually appealing dashboard 📈
 
 ![Image](https://github.com/user-attachments/assets/2da92f4f-941f-4449-a8db-2270dd2d9d18)
