@@ -1,5 +1,7 @@
 # Social-Media-KPI-Dashboard
 
+https://lookerstudio.google.com/reporting/500531c5-a7b4-4178-a1a5-b515e776c9be
+
 ## 🛠️ 𝐓𝐡𝐞 𝐓𝐚𝐬𝐤:
 Fetch campaign data from 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐀𝐝𝐬 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 into 𝐆𝐨𝐨𝐠𝐥𝐞 𝐒𝐡𝐞𝐞𝐭𝐬 📤
 Integrate the data with a 𝐁𝐈 𝐭𝐨𝐨𝐥 to create an intuitive, visually appealing dashboard 📈
